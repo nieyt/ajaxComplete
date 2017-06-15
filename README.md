@@ -1,2 +1,2 @@
-# ajaxComplete
+# autoComplete
 Auto-Completion using AJAX
